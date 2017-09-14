@@ -1,0 +1,19 @@
+title: dcrossleyau.github.io
+description: >
+  This is a test.
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: classic-jekyll-theme
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
