@@ -2,7 +2,7 @@ title: dcrossleyau.github.io
 description: >
   This is a test.
 baseurl: ""
-url: ""
+url: "https://dcrossleyau.github.io"
 
 # Build settings
 markdown: kramdown
