@@ -5,8 +5,10 @@ baseurl: ""
 url: "https://dcrossleyau.github.io"
 
 # Build settings
+remote_theme: Balancingrock/classic-jekyll-theme
 markdown: kramdown
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
